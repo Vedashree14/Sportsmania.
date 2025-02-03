@@ -1,5 +1,3 @@
-# Sportsmania.
-
 # Sportsmania Website  
 
 ## Overview  
